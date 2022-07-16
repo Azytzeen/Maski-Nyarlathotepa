@@ -1,6 +1,6 @@
 ﻿#Czwartek 26-02-1925 późny wieczór
 
-nastaje piątek 27-02-1925, rano, hotel
+#nastaje piątek 27-02-1925, rano, hotel
 niektórzy spali lepiej, a inni nie po wczorajszej wizycie w pubie.
 Trwa wielka wystawa w muzeum londyńskim, wystawa imperialna. Mamy ulotkę British Empire Excibition Wembley, London, od kwietnia do października 1924 roku, nadal trwa ta wystawa w 1925.
 Muzea:
@@ -44,7 +44,7 @@ Jedna z nich miała bransoletki złote, wyglądały dosyć orientalnie.
 
 #jesteśmy już w pokoju hotelowym, zbliża się wieczór.
 
-#obudziłem się w swojej rezydencji w Bostonie, wyszedłem na ulice, po śniadaniu, czekał już na mnie szofer, wyjechałem z dzielnicy, zobaczyłem ludzi śpiących na ulicy, zaczęli wyciągać do mnie ręce, poczułem obrzydzenie, pomyślałem, że nie zasłużyłem na to, czemu muszę obcować z tą biedotą, z tymi śmieciami. Obudziłem się w hotelu, zobaczyłem, czy nie ma luster, i poszedłem spać.
+#(Artur)obudziłem się w swojej rezydencji w Bostonie, wyszedłem na ulice, po śniadaniu, czekał już na mnie szofer, wyjechałem z dzielnicy, zobaczyłem ludzi śpiących na ulicy, zaczęli wyciągać do mnie ręce, poczułem obrzydzenie, pomyślałem, że nie zasłużyłem na to, czemu muszę obcować z tą biedotą, z tymi śmieciami. Obudziłem się w hotelu, zobaczyłem, czy nie ma luster, i poszedłem spać.
 
 #Jack usiadł w fotelu, Artur wstał z łóżka, zrobił obchód, zobaczył, czy lustra są zasłonięte, zasłonił zasłony, uważając żeby nie spojrzeć w niebo.
 
