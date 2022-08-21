@@ -7,3 +7,5 @@ Zapisy z sesji są mojego autorstwa i mogą się różnić od zapisków prowadz
 
 Jeżeli masz jakieś uwagi możesz się ze mną skontaktować poprzez Discorda.
 Miłego czytania.
+
+Ph'nglui mglw'nfah Cthulhu R'lyeh wgah'nagl fhtagn!
