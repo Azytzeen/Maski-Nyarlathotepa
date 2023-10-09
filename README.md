@@ -9,3 +9,5 @@ Jeżeli masz jakieś uwagi możesz się ze mną skontaktować poprzez Discorda.
 Miłego czytania.
 
 Ph'nglui mglw'nfah Cthulhu R'lyeh wgah'nagl fhtagn!
+----
+Po kilku przerwach w graniu i dodawaniu sesji zaktualizowałem repozytorium o brakujące sesje. Wznawiamy granie i kończymy pomału kampanię w Maski Nyarlathotepa.
